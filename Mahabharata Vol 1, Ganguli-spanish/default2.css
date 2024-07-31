@@ -1,0 +1,96 @@
+blockquote {
+  margin-top: 1em;
+  margin-right: 1.5em;
+  margin-bottom: 1em;
+  margin-left: 1.5em;
+}
+.blockquote {
+  margin-top: 1em;
+  margin-right: 1.5em;
+  margin-bottom: 0;
+  margin-left: 1.5em;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+body {/* this is only for background */
+  font-family: Baskerville;
+  font-size: large;
+  margin-top: 0%;
+  margin-right: 0%;
+  margin-bottom: 100px;
+  margin-left: 0%;
+  text-align: left;
+
+  min-height: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-image: url('Parchment.jpg')
+}
+
+
+
+.text {/* control the text content here for index */
+  font-family: Baskerville;
+  font-size: large;
+
+  line-height: 1.25; /* Increase the line spacing */
+  margin-top: 0;
+  margin-bottom: 2; /*between paragraphs */
+  text-indent: 1.2em;
+  margin-right: 0%;
+  margin-left: 0%;
+  padding-top: 100px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+
+}
+
+footer {
+  font-family: Baskerville;
+  background-color: rgba(255,255,255,0);  
+
+  widows: 1;
+  orphans: 1;
+  font-size: large;
+  margin-top: 100px;
+  margin-right: 0%;
+  margin-bottom: 100px;
+  margin-left: 0%;
+  text-align: left;
+}
+
+
+
+img {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+}
+xhr {
+  margin-top: 1em;
+  margin-right: 40%;
+  margin-bottom: 0.9em;
+  margin-left: 40%;
+  border-top: 2px solid;
+}
+
+hr {
+width: 100%;
+margin: auto;
+}
+.cover {
+  text-align: center;
+  text-indent: 0;
+  height: 100%;
+}
